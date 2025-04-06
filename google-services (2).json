@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718400241026",
+    "project_id": "beaconaid-vertexai",
+    "storage_bucket": "beaconaid-vertexai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718400241026:android:42d95c1c5423f9a33e239b",
+        "android_client_info": {
+          "package_name": "com.berserkers.beaconaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718400241026-rg5dti44r05qlk12r9563crs9kkrbt4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.berserkers.beaconaid",
+            "certificate_hash": "f5f689da0e089828c3452200c74580d673435cdc"
+          }
+        },
+        {
+          "client_id": "718400241026-s4ukqhgro9gi4kra9ososbi6bv83pk84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGAD3Gb-34YggAHGKPIEQr0AMnuVG8AkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718400241026-s4ukqhgro9gi4kra9ososbi6bv83pk84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

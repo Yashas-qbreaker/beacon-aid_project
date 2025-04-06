@@ -1,0 +1,17 @@
+{
+  "appId": "com.berserkers.beaconaid",
+  "appName": "createxyz-app",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": null,
+      "keystorePassword": null,
+      "keystoreAlias": null,
+      "keystoreAliasPassword": null,
+      "signingType": null
+    }
+  }
+} 
